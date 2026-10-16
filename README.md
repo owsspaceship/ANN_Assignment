@@ -18,5 +18,6 @@ This project optimizes a Multi-Layer Perceptron (MLP) in PyTorch to classify clo
 ```text
 MBMCHA003/
 ├── CSC2042S_Assignment3_NeuralNetworks_2026.ipynb   # Main documented Jupyter Notebook with saved cell outputs
-├── MBMCHA003_Report.pdf                             # Formal written report (< 5 pages)
+├── MBMCHA003_Report.pdf                             # Formal written report (five pages maximum)
+├── MBMCHA003_Report.docx                            # Editable report document
 └── README.md                                        # Setup and reproduction instructions
